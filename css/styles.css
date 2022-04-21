@@ -28,7 +28,7 @@ h3{
 }
 
 p{
-  line-height: 1.0;
+  line-height: 1.4;
 }
 
 hr{
@@ -65,12 +65,22 @@ padding: 50px 0 20px;
 }
 
 .intro{
-  width:50%;
+  width:45%;
   margin:auto;
 }
 
 .intro-1{
-  width:50%;
+  width:45%;
+  margin:auto;
+}
+
+.intro-2{
+  width:45%;
+  margin:auto;
+}
+
+.intro-3{
+  width:45%;
   margin:auto;
 }
 
