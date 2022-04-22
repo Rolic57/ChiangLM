@@ -67,21 +67,33 @@ padding: 50px 0 20px;
 .intro{
   width:45%;
   margin:auto;
+  text-align: justify;
+  text-justify:inter-word;
+  line-height: 2.0;
 }
 
 .intro-1{
   width:45%;
   margin:auto;
+  text-align: justify;
+  text-justify:inter-word;
+  line-height: 2.0;
 }
 
 .intro-2{
   width:45%;
   margin:auto;
+  text-align: justify;
+  text-justify:inter-word;
+  line-height:2.0;
 }
 
 .intro-3{
   width:45%;
   margin:auto;
+  text-align: justify;
+  text-justify:inter-word;
+  line-height:2.0;
 }
 
 .contact-message{
@@ -154,6 +166,11 @@ padding: 50px 0 20px;
   width:20%;
 }
 .interpersonal-img{
+  float: left;
+  margin-right: 30px;
+  width:20%;
+}
+.energymgt-img{
   float: left;
   margin-right: 30px;
   width:20%;
